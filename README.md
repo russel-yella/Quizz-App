@@ -30,6 +30,8 @@ cd quiz-app
 pip install -r requirements.txt
 ```
 ## Project Structure
+
+```text
 quiz-project/
 │
 ├── main.py             # Entry point
@@ -38,3 +40,4 @@ quiz-project/
 ├── question_model.py   # Question class
 ├── data.py             # Question dataset
 ├── README.md           # This file
+```
